@@ -1,0 +1,80 @@
+{
+  "id": "f144442e-0c8f-446c-81fc-bce61bfe0d0d",
+  "name": "My Visual Studio extensions",
+  "description": "A collection of my Visual Studio extensions",
+  "version": "1.0",
+  "extensions": [
+    {
+      "name": "Add New File (64-bit)",
+      "vsixId": "d48e8f25-661b-4970-8b66-03f051ba5fc3",
+      "moreInfoUrl": "https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile64",
+      "downloadUrl": "https://madskristensen.gallery.vsassets.io:443/_apis/public/gallery/publisher/MadsKristensen/extension/AddNewFile64/4.1.8/assetbyname/Microsoft.VisualStudio.Ide.Payload?redirect=true&update=true"
+    },
+    {
+      "name": "CamelCommand",
+      "vsixId": "CamelCommand.19f710b8-b3f8-4e75-bca9-147b438e75ef",
+      "moreInfoUrl": "https://marketplace.visualstudio.com/items?itemName=rostunic.CamelCommand",
+      "downloadUrl": "https://rostunic.gallery.vsassets.io:443/_apis/public/gallery/publisher/rostunic/extension/CamelCommand/1.0.5/assetbyname/Microsoft.VisualStudio.Ide.Payload?redirect=true&update=true"
+    },
+    {
+      "name": "Codeium",
+      "vsixId": "Codeium.VisualStudio",
+      "moreInfoUrl": "https://marketplace.visualstudio.com/items?itemName=Codeium.CodeiumVS",
+      "downloadUrl": "https://codeium.gallery.vsassets.io:443/_apis/public/gallery/publisher/Codeium/extension/CodeiumVS/1.2.103/assetbyname/Microsoft.VisualStudio.Ide.Payload?redirect=true&update=true"
+    },
+    {
+      "name": "CodeMaid VS2022",
+      "vsixId": "9079e73d-3fbb-4e07-8dab-f44fa5d8e8b5",
+      "moreInfoUrl": "https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaidVS2022",
+      "downloadUrl": "https://stevecadwallader.gallery.vsassets.io:443/_apis/public/gallery/publisher/SteveCadwallader/extension/CodeMaidVS2022/12.0.300/assetbyname/Microsoft.VisualStudio.Ide.Payload?redirect=true&update=true"
+    },
+    {
+      "name": "Extension Manager 2022",
+      "vsixId": "3d183c28-64c6-4efb-a201-50310d65e675",
+      "moreInfoUrl": "https://marketplace.visualstudio.com/items?itemName=Loop8ack.ExtensionManager2022",
+      "downloadUrl": "https://loop8ack.gallery.vsassets.io:443/_apis/public/gallery/publisher/Loop8ack/extension/ExtensionManager2022/1.2.162/assetbyname/Microsoft.VisualStudio.Ide.Payload?redirect=true&update=true"
+    },
+    {
+      "name": "F# Formatting",
+      "vsixId": "FantomasVs.4acfe0e3-4521-45ed-9c32-9265806f4108",
+      "moreInfoUrl": "https://marketplace.visualstudio.com/items?itemName=asti.fantomas-vs22",
+      "downloadUrl": "https://asti.gallery.vsassets.io:443/_apis/public/gallery/publisher/asti/extension/fantomas-vs22/1.3.0/assetbyname/Microsoft.VisualStudio.Ide.Payload?redirect=true&update=true"
+    },
+    {
+      "name": "FSharpNamespacer",
+      "vsixId": "FSharpNamespacer.e921078e-2a3f-48f2-b267-0443452a795b",
+      "moreInfoUrl": "https://marketplace.visualstudio.com/items?itemName=p1eXu5.FSharpNamespacer",
+      "downloadUrl": "https://p1exu5.gallery.vsassets.io:443/_apis/public/gallery/publisher/p1eXu5/extension/FSharpNamespacer/0.1.6/assetbyname/Microsoft.VisualStudio.Ide.Payload?redirect=true&update=true"
+    },
+    {
+      "name": "GitHub Copilot",
+      "vsixId": "GitHub.Copilot",
+      "moreInfoUrl": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs",
+      "downloadUrl": "https://github.gallery.vsassets.io:443/_apis/public/gallery/publisher/GitHub/extension/copilotvs/1.126.0.0/assetbyname/Microsoft.VisualStudio.Ide.Payload?redirect=true&update=true"
+    },
+    {
+      "name": "IntelliCommand",
+      "vsixId": "IntelliCommand.9ab809de-97b4-4763-9d86-ce2698abd254",
+      "moreInfoUrl": "https://marketplace.visualstudio.com/items?itemName=LokeshGovindu.IntelliCommand",
+      "downloadUrl": "https://lokeshgovindu.gallery.vsassets.io:443/_apis/public/gallery/publisher/LokeshGovindu/extension/IntelliCommand/2023.2/assetbyname/Microsoft.VisualStudio.Ide.Payload?redirect=true&update=true"
+    },
+    {
+      "name": "Pretty Doc Comments",
+      "vsixId": "PrettyDocComments.46054037-6cbf-4b09-ba20-1ee4a01a8fd7",
+      "moreInfoUrl": "https://marketplace.visualstudio.com/items?itemName=OlivierJacot-Descombes.PrettyDocComments",
+      "downloadUrl": "https://olivierjacot-descombes.gallery.vsassets.io:443/_apis/public/gallery/publisher/OlivierJacot-Descombes/extension/PrettyDocComments/0.4.0/assetbyname/Microsoft.VisualStudio.Ide.Payload?redirect=true&update=true"
+    },
+    {
+      "name": "Project System Tools 2022",
+      "vsixId": "cb5b6a78-6fa1-4830-a272-760862eb77af",
+      "moreInfoUrl": "https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProjectSystemTools2022",
+      "downloadUrl": "https://visualstudioproductteam.gallery.vsassets.io:443/_apis/public/gallery/publisher/VisualStudioProductTeam/extension/ProjectSystemTools2022/1.0.2.2305901/assetbyname/Microsoft.VisualStudio.Ide.Payload?redirect=true&update=true"
+    },
+    {
+      "name": "Select Block",
+      "vsixId": "BlockSelect22.07a6f1bb-603f-4c0c-84c4-e312dfcaee42",
+      "moreInfoUrl": "https://marketplace.visualstudio.com/items?itemName=alejandro-chavez.SelectBlock2022",
+      "downloadUrl": "https://alejandro-chavez.gallery.vsassets.io:443/_apis/public/gallery/publisher/alejandro-chavez/extension/SelectBlock2022/1.1/assetbyname/Microsoft.VisualStudio.Ide.Payload?redirect=true&update=true"
+    }
+  ]
+}
